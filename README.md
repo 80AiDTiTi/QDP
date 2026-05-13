@@ -1,6 +1,7 @@
 # QDP 達爾飛法風險評估系統
 
 > Delphi method專家預測法，中文名有：達爾飛法/德爾菲法/德菲法
+> 
 > 基於 Google Apps Script 的多單位、多活動風險評估平台。透過達爾飛法（Delphi Method）流程，以匿名投票方式收斂各部門意見，產出優先排序的風險對策表。
 
 ---
@@ -76,6 +77,7 @@ QDP 系統以 Google Sheets 作為資料庫、Google Apps Script 作為後端、
 **1. 複製 Google Sheets 試算表**
 
 https://docs.google.com/spreadsheets/d/1DOBDnBnNmSdT08d8a9bHHdfp7FQjZbD0Vbr0ran9EBo/copy
+
 前端、後端程式已含
 
 **2. 開啟 Apps Script**
